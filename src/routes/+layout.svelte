@@ -1,5 +1,5 @@
 <script>
-	import '../styles/app.css';
+  import "../styles/app.css"
 </script>
 
 <slot />
@@ -12,5 +12,5 @@
     :global(html) {
       background-color: theme(colors.gray.800);
     }
-}
+  }
 </style>
